@@ -56,5 +56,6 @@ Ce projet est une application web qui permet de générer automatiquement des le
 2. Démarrez le serveur :
 
    ```bash
+   cd client
    npm start
    ```
